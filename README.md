@@ -1,4 +1,4 @@
-# WealthTracker
+# StockScanner
 
 A market scanner + paper trading desk I built for tracking intraday momentum.
 
